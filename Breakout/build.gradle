@@ -44,6 +44,7 @@ project(":desktop") {
     }
 }
 
+/*
 project(":android") {
     apply plugin: "android"
 
@@ -61,6 +62,7 @@ project(":android") {
         natives "com.badlogicgames.gdx:gdx-box2d-platform:$gdxVersion:natives-x86"
     }
 }
+*/
 
 project(":ios") {
     apply plugin: "java"

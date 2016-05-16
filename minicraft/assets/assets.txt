@@ -1,5 +1,4 @@
 d:assets:0:application/unknown
-b:.DS_Store:6148:application/unknown
 a:bossdeath.wav:93124:audio/x-wav
 a:craft.wav:9532:audio/x-wav
 a:death.wav:73282:audio/x-wav
@@ -14,7 +13,7 @@ i:tiles.png:2776:image/png
 t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:770:application/unknown
 t:com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl:2886:application/unknown
 t:com/badlogic/gdx/graphics/g3d/shaders/default.fragment.glsl:5163:application/unknown
-t:com/badlogic/gdx/graphics/g3d/shaders/default.vertex.glsl:8948:application/unknown
+t:com/badlogic/gdx/graphics/g3d/shaders/default.vertex.glsl:8824:application/unknown
 t:com/badlogic/gdx/graphics/g3d/shaders/depth.fragment.glsl:870:application/unknown
 t:com/badlogic/gdx/graphics/g3d/shaders/depth.vertex.glsl:2923:application/unknown
 t:com/badlogic/gdx/utils/arial-15.fnt:21743:application/unknown

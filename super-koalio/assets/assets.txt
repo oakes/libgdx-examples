@@ -1,12 +1,11 @@
 d:assets:0:application/unknown
-b:.DS_Store:6148:application/unknown
 i:koalio.png:3378:image/png
 b:level1.tmx:45750:application/unknown
 i:tileSet.png:44185:image/png
 t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:770:application/unknown
 t:com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl:2886:application/unknown
 t:com/badlogic/gdx/graphics/g3d/shaders/default.fragment.glsl:5163:application/unknown
-t:com/badlogic/gdx/graphics/g3d/shaders/default.vertex.glsl:8948:application/unknown
+t:com/badlogic/gdx/graphics/g3d/shaders/default.vertex.glsl:8824:application/unknown
 t:com/badlogic/gdx/graphics/g3d/shaders/depth.fragment.glsl:870:application/unknown
 t:com/badlogic/gdx/graphics/g3d/shaders/depth.vertex.glsl:2923:application/unknown
 t:com/badlogic/gdx/utils/arial-15.fnt:21743:application/unknown

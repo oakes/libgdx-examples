@@ -1,5 +1,4 @@
 d:assets:0:application/unknown
-b:.DS_Store:6148:application/unknown
 i:64x64.png:114271:image/png
 i:brick.png:6881:image/png
 i:brick1.png:6882:image/png
@@ -54,7 +53,7 @@ i:tunnel.png:8579:image/png
 t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:770:application/unknown
 t:com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl:2886:application/unknown
 t:com/badlogic/gdx/graphics/g3d/shaders/default.fragment.glsl:5163:application/unknown
-t:com/badlogic/gdx/graphics/g3d/shaders/default.vertex.glsl:8948:application/unknown
+t:com/badlogic/gdx/graphics/g3d/shaders/default.vertex.glsl:8824:application/unknown
 t:com/badlogic/gdx/graphics/g3d/shaders/depth.fragment.glsl:870:application/unknown
 t:com/badlogic/gdx/graphics/g3d/shaders/depth.vertex.glsl:2923:application/unknown
 t:com/badlogic/gdx/utils/arial-15.fnt:21743:application/unknown

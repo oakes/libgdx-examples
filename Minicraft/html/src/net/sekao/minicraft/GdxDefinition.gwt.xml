@@ -6,5 +6,5 @@
 	<inherits name='MyGdxGame' />
 	<entry-point class='net.sekao.minicraft.client.HtmlLauncher' />
 	
-	<set-configuration-property name="gdx.assetpath" value="../android/assets" />
+	<set-configuration-property name="gdx.assetpath" value="../core/assets" />
 </module>
